@@ -1,4 +1,5 @@
-![Uploading Screenshot 2026-10-20 205015.png…]()
+<img width="1918" height="1021" alt="Screenshot 2026-10-20 205015" src="https://github.com/user-attachments/assets/7bf0a225-7331-40eb-ad80-d1f27e6c50bc" />
+
 
 
 
