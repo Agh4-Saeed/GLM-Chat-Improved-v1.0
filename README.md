@@ -1,4 +1,5 @@
-<img width="1919" height="1079" alt="Screenshot 2026-10-20 203055" src="https://github.com/user-attachments/assets/16e902ec-bfcb-4403-9628-d14ffe4322bf" />
+![Uploading Screenshot 2026-10-20 205015.png…]()
+
 
 
 # GLM Chat Improved V1.0
