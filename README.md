@@ -33,7 +33,7 @@
 
 ## 🛠️ پیش‌نیازها
 
-- Python نسخه 3.10 یا بالاتر
+- Python نسخه 3.1 یا بالاتر
 - نصب و اجرای [AutoZcoder](https://github.com/B3hnamR/AutoZcoder)
 - داشتن کلید API معتبر از حساب AutoZcoder
 
@@ -112,7 +112,7 @@ GLM Chat Improved is a modern desktop application featuring a sleek neon-dark in
 
 ## 🛠️ Requirements
 
-- Python 3.10 or later
+- Python 3.1 or later
 - [AutoZcoder](https://github.com/B3hnamR/AutoZcoder) installed and running
 - A valid API key from your AutoZcoder account
 
